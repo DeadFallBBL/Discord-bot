@@ -1,8 +1,8 @@
 {
-    "prefix": "",   //    NE PAS TOUCHER
-    "ownerid": "",  //    NE PAS TOUCHER
-    "friendid": "", //    NE PAS TOUCHER
-    "token": "Votre token",
+    "prefix": "",
+    "ownerid": "",
+    "friendid": "",
+    "token": "NDUxNDQ3OTc1MjY5MzY3ODA4.DfCCdw.EYPBMwRDn9_QuECteMrLt0o-rnk",
     "emoji": "Lien vers l'emoji",
     "emojiname": "Nom de l'emoji"
 }
